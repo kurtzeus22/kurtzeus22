@@ -17,11 +17,11 @@ COBOL {Currently Studying}
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) {Currently Studying}
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurt-zeus-dela-cruz-459677259/)](https://www.linkedin.com/in/kurt-zeus-dela-cruz-459677259/)
+[![Linkedin Badge](https://img.shields.io/badge/-kurtzeus22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurt-zeus-dela-cruz-459677259/)](https://www.linkedin.com/in/kurt-zeus-dela-cruz-459677259/)
 
-[![Gmail Badge](https://img.shields.io/badge/-kurtzeus06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kurtzeus06@gmail.com)](mailto:kurtzeus06@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-kurtzeus06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kurtzeus06@gmail.com)](mailto:kurtzeus06@gmail.com)
 
-[![Facebook Badge](https://img.shields.io/badge/kurtzeus22-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kurtzeus22/)]
+![Facebook Badge](https://img.shields.io/badge/kurtzeus22-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kurtzeus22/)
 
 ## Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kurtzeus22&count_private=true&show_icons=true&include_all_commits=true)
