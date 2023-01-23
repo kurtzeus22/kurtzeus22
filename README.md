@@ -19,7 +19,7 @@ COBOL {Currently Studying}
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurt-zeus-dela-cruz-459677259/)](https://www.linkedin.com/in/kurt-zeus-dela-cruz-459677259/)
 
-[![Gmail Badge](https://img.shields.io/badge/-kurtzeus06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kurtzeus06@gmail.com)](mailto:kurtzeus06@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kurtzeus06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kurtzeus06@gmail.com)](mailto:kurtzeus06@gmail.com)]
 
 [![Facebook Badge](https://img.shields.io/badge/kurtzeus22-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kurtzeus22/)]
 
