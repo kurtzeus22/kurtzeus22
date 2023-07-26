@@ -70,6 +70,7 @@
   <a href="mailto:kurtzeus06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo"  /></a>
   <a href="https://www.facebook.com/kurtzeus22/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook logo"  /></a>
   <a href="https://www.youtube.com/channel/UCOXMA1NvSpUsBbBWjVl7Uvg"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="Youtube logo"  /></a>
+  <a href="https://kurtzeus22.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="35" alt="Itchio logo"  /></a>
 </div>
 
 ###
