@@ -40,7 +40,7 @@
   <img width="12" />
 
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" color="yellow" height="30" alt="unity logo"  />
+  <img src="https://files.rubixdev.de/logos/unity.svg" color="yellow" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
