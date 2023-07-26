@@ -73,11 +73,9 @@
   <a href="https://kurtzeus22.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="35" alt="Itchio logo"  /></a>
 </div>
 
-<div align="left">
-<img src="https://github.com/kurtzeus22/kurtzeus22/blob/output/github-contribution-grid-snake.gif" />
-</div>
+### for snake
+![snake gif](https://github.com/kurtzeus22/kurtzeus22/blob/output/github-contribution-grid-snake.gif)
 
-###
 
 <br clear="both">
 
