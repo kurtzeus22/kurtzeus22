@@ -36,25 +36,15 @@
 <div align="left">
   
   <a href="https://www.linkedin.com/in/kurt-zeus-dela-cruz-459677259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:kurtzeus06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo"  /></a>
+  <a href="https://www.facebook.com/kurtzeus22/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Gmail logo"  /></a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kurtzeus22/kurtzeus22/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-
-[![Gmail Badge](https://img.shields.io/badge/-kurtzeus06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kurtzeus06@gmail.com)](mailto:kurtzeus06@gmail.com)
-
-![Facebook Badge](https://img.shields.io/badge/kurtzeus22-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kurtzeus22/)
 
