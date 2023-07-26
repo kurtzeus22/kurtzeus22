@@ -73,6 +73,10 @@
   <a href="https://kurtzeus22.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="35" alt="Itchio logo"  /></a>
 </div>
 
+<div align="left">
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+</div>
+
 ###
 
 <br clear="both">
