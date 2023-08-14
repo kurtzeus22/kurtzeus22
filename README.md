@@ -1,5 +1,5 @@
 <h2 align="left">Hello 👋! My name is Kurt Dela Cruz and I am a Student from Polytechnic University of the Philippines</h2>
-<h4 align="left"><a href="https://www.kurt-delacruz.carrd.co">My Mini Portfolio</a></h4>
+<h4 align="left"><a href="https://kurt-delacruz.carrd.co">My Mini Portfolio</a></h4>
 
 ###
 
